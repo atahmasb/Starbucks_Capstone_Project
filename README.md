@@ -48,9 +48,7 @@ Since the top three features are associated with an customer offer, it may be po
 - clean_data.py  
   - Python software that combines offer portfolio, customer demographic, and customer transaction data  
 - exploratory_data_analysis.py  
-  - Generates training customer demographic data visualizations and computes summary statistics  
-- LICENSE  
-  - Repository license file  
+  - Generates training customer demographic data visualizations and computes summary statistics   
 .gitignore  
   - [Describes](https://git-scm.com/docs/gitignore) files and/or directories that should not be checked into revision control  
 - README.md  
